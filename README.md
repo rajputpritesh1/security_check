@@ -39,9 +39,8 @@ This project is licensed under the [MIT License](LICENSE).
    ```
 3. Clone the repository by running the following command:
    ```
-   git clone https://github.com/your-username/security-check-tool.git
+   git clone https://github.com/rajputpritesh1/security-check-tool.git
    ```
-   Replace `your-username` with your GitHub username or provide the URL of your repository if it's hosted elsewhere.
 4. Navigate to the project directory:
    ```
    cd security-check-tool
@@ -61,9 +60,8 @@ This project is licensed under the [MIT License](LICENSE).
 1. Open the terminal on your Kali Linux system.
 2. Clone the repository by running the following command:
    ```
-   git clone https://github.com/your-username/security-check-tool.git
+   git clone https://github.com/rajputpritesh1/security-check-tool.git
    ```
-   Replace `your-username` with your GitHub username or provide the URL of your repository if it's hosted elsewhere.
 3. Navigate to the project directory:
    ```
    cd security-check-tool
