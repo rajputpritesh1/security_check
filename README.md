@@ -1,5 +1,3 @@
-# security_check
-Security Check Tool: A command-line utility to analyze website security. Detects vulnerabilities like insecure protocols, missing HTTPS, cookie security, and CSRF protection. Provides actionable solutions for a more secure web experience.
 # Security Check Tool
 
 The Security Check Tool is a command-line utility that helps analyze the security of websites. It detects common security vulnerabilities such as insecure protocols, missing HTTPS, insecure cookies, and forms without CSRF protection. It provides actionable solutions to address these vulnerabilities and enhance the overall security of websites.
