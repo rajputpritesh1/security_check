@@ -26,3 +26,57 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Installation Guide
+
+### Prerequisites
+- Make sure you have Python 3.x installed on your system.
+
+### Termux
+1. Open the Termux app on your Android device.
+2. Install the required packages by running the following command:
+   ```
+   pkg install python git
+   ```
+3. Clone the repository by running the following command:
+   ```
+   git clone https://github.com/your-username/security-check-tool.git
+   ```
+   Replace `your-username` with your GitHub username or provide the URL of your repository if it's hosted elsewhere.
+4. Navigate to the project directory:
+   ```
+   cd security-check-tool
+   ```
+5. Install the dependencies by running the following command:
+   ```
+   pip install -r requirements.txt
+   ```
+6. Run the tool by executing the following command:
+   ```
+   python security_tool.py
+   ```
+   The tool will prompt you to enter the website link. Provide the URL and press Enter.
+7. The tool will analyze the security of the provided website and display any vulnerabilities found along with recommended solutions.
+
+### Kali Linux
+1. Open the terminal on your Kali Linux system.
+2. Clone the repository by running the following command:
+   ```
+   git clone https://github.com/your-username/security-check-tool.git
+   ```
+   Replace `your-username` with your GitHub username or provide the URL of your repository if it's hosted elsewhere.
+3. Navigate to the project directory:
+   ```
+   cd security-check-tool
+   ```
+4. Install the dependencies by running the following command:
+   ```
+   pip install -r requirements.txt
+   ```
+5. Run the tool by executing the following command:
+   ```
+   python security_tool.py
+   ```
+   The tool will prompt you to enter the website link. Provide the URL and press Enter.
+6. The tool will analyze the security of the provided website and display any vulnerabilities found along with recommended solutions.
+
+That's it! You have successfully installed and used the Security Check Tool on Termux or Kali Linux. Feel free to explore and customize the tool according to your needs.
